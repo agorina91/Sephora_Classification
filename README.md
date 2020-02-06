@@ -4,7 +4,7 @@
 
 Navigation:
 Jupyter_Notebooks - has four separate notebooks with code for different stages of the project: gathering the data, cleaning, EDA, and modeling. 
-Data - has multiple csv files with unclean data (the way my scraping function works resulted in multiple files), and one cleaned dataset 'True_Final_Sephora.csv' that was used for EDA and modeling.
+Data - has multiple csv files with unclean data (the way my scraping function works resulted in multiple files), and one cleaned dataset 'True_Final_Sephora.csv' that was used for EDA and modeling. Slides in PDF format are also available.
 
 --------------------------
 
